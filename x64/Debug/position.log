@@ -1,0 +1,4 @@
+﻿  position.cpp
+D:\个人数据\编程\OnePointPostion\position\position.cpp(153,18): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\个人数据\编程\OnePointPostion\position\position.cpp(160,25): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  position.vcxproj -> D:\个人数据\编程\OnePointPostion\position\x64\Debug\position.exe
